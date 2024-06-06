@@ -2,11 +2,13 @@
 <img width="300" alt="image" src="https://github.com/NuGet/Spotlight/assets/1288848/2e6ca119-b6f4-43a9-a49e-bf71a0f09ce4">
 
 ## Why
-This repository is designed to spotlight popular and upcoming NuGet packages, providing a central place for developers to discover new tools and libraries that can enhance their projects. By showcasing these packages, we aim to:
+This repository is designed to spotlight popular and upcoming NuGet packages, providing a central place for developers to discover new tools and libraries that can enhance their projects. By showcasing these packages through 2-minute or less videos, we aim to:
 
 - Promote Visibility: Increase awareness of high-quality NuGet packages.
 - Encourage Collaboration: Foster a community where developers can share and collaborate on useful tools.
 - Support Innovation: Highlight innovative solutions that address common development challenges.
+
+<img width="300" alt="image" src="https://github.com/NuGet/Spotlight/assets/1288848/23d855cb-6012-4f5b-abd7-02db6c548ce8">
 
 ## How to Submit a Package
 To submit a NuGet package for spotlighting, please follow these steps:
