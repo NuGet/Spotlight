@@ -1,7 +1,7 @@
 ---
 name: Spotlight
 about: A template to spotlight NuGet packages
-title: "[Spotlight]"
+title: "[Spotlight] <Package Name>"
 labels: ''
 assignees: ''
 
